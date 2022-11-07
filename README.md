@@ -1,3 +1,5 @@
 # scratch spotlight
 
-a spotlight for scratch projects
+A spotlight for scratch projects
+
+[Scratch spotlight website](https://scratchspotlight.netlify.app/)
